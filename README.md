@@ -17,7 +17,7 @@ The solution analyzes 180,519 supply chain transactions across 5 global markets 
 
   ## Architecture
 
-  Data Factory Pipeline
+Data Factory Pipeline
         ↓
 Lakehouse (Bronze)
         ↓
@@ -30,6 +30,20 @@ Semantic Model
 Power BI Dashboard
         ↓
 Data Activator Alerts
+
+
+## Tech Stack
+
+- Microsoft Fabric
+- Data Factory
+- Lakehouse
+- Dataflow Gen2
+- Warehouse
+- Semantic Model
+- Power BI
+- DAX
+- SQL
+- Data Activator
 
 ## Data Pipeline
 | Layer | Tables | Rows |
@@ -87,8 +101,31 @@ Configured KPI alerts for:
 - Revenue at Risk > $1.6M
 - Profit Margin % < 8%
 
-  ## Author
+## Skills Demonstrated
 
-  Kolluri Venkata Ganesh
+- Data Modeling (Star Schema)
+- SQL Data Transformation
+- DAX Measures & KPIs
+- Power BI Dashboard Design
+- Microsoft Fabric Medallion Architecture
+- Business Intelligence & Reporting
+- Descriptive Analytics
+- Diagnostic Analytics
+- Predictive Analytics
+- Prescriptive Analytics
+
+  ## Dataset
+- Source: DataCo Supply Chain Dataset
+- Records: 180,519 transactions
+- Period: Jan 2015 – Feb 2018
+- Markets: 5 global markets
+- Categories: 118 unique products
+- Customers: 20,652 unique customers
+
+
+   ## Author
+
+Kolluri Venkata Ganesh
 Data Analyst | Power BI | SQL | Microsoft Fabric
+🔗 LinkedIn: https://www.linkedin.com/in/kolluri-venkata-ganesh/
   
