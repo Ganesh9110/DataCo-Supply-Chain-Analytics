@@ -31,6 +31,13 @@ Power BI Dashboard
         ↓
 Data Activator Alerts
 
+## Data Pipeline
+| Layer | Tables | Rows |
+|-------|--------|------|
+| Bronze | Raw CSV | 180,519 |
+| Silver | 4 tables | cleaned |
+| Gold | 3 tables | star schema |
+
 
 ## Dashboard Pages
 
