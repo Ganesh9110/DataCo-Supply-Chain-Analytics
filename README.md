@@ -31,6 +31,20 @@ Power BI Dashboard
         ↓
 Data Activator Alerts
 
+## Microsoft Fabric Workspace
+
+<img width="1814" height="731" alt="Microsoft Fabric Workspace" src="https://github.com/user-attachments/assets/818e0aeb-2cbc-40ad-9dad-7e9ca12506a5" />
+
+### Workspace Components:
+| Item | Type | Purpose |
+|------|------|---------|
+| Ingest_DataCo_Pipeline | Pipeline | Data ingestion |
+| Silver_Transformation | Dataflow Gen2 | Silver layer |
+| SupplyChain_Lakehouse | Lakehouse | Bronze storage |
+| SupplyChain_Warehouse | Warehouse | Gold layer |
+| SemanticModel_Chain | Semantic Model | DAX measures |
+| Supply Chain Dashboard | Report | Power BI pages |
+| Supply Chain Alerts | Dashboard | KPI alerts |
 
 ## Tech Stack
 
