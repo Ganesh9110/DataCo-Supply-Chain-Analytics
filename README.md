@@ -138,31 +138,36 @@ Configured KPI alerts for:
 
   ## Business Recommendations
 
-### Where to Invest More:
-| Area | Reason | Evidence |
-|------|---------|----------|
-| Fishing Category | Highest revenue $6.9M and profit $756K | Top performing category |
-| Fan Shop Department | Highest revenue $17.1M and profit $1.83M | Most profitable department |
-| Europe Market | Highest revenue $10.9M | Largest market contributor |
-| LATAM Market | Second highest $10.3M | Strong growth market |
-| Standard Class Shipping | Most reliable 38.1% late rate | Best delivery performance |
-| Consumer Segment | 51.9% of total revenue | Dominant customer base |
+### Areas for Growth & Investment
 
-### Where to Reduce Investment:
-| Area | Reason | Evidence |
-|------|---------|----------|
-| First Class Shipping | 95.32% late delivery rate | SLA configuration defect |
-| High Discounts (>15%) | Reduces avg profit per order | Observed in sales data |
-| Suspected Fraud Orders | $1.57M revenue at risk | 4,062 fraud cases identified |
-| Over-reliance on 2 markets | Dependency risk | Europe + LATAM = 57.6% revenue |
+| Area                    | Reason                                  | Evidence                          |
+| ----------------------- | --------------------------------------- | --------------------------------- |
+| Fishing Category        | Highest revenue-generating category     | $6.9M revenue                     |
+| Fan Shop Department     | Highest revenue and profit contribution | $17.1M revenue, $1.83M profit     |
+| Europe Market           | Largest revenue contributor             | $10.9M revenue                    |
+| LATAM Market            | Strong revenue performance              | $10.3M revenue                    |
+| Standard Class Shipping | Most reliable shipping mode             | Lowest late-delivery rate (38.1%) |
+| Consumer Segment        | Largest customer segment                | 51.9% of total revenue            |
 
-### Risk Areas Requiring Monitoring:
-| Risk | Current Status | Action Required |
-|------|---------------|-----------------|
-| Late Delivery Rate | 54.82% | Fix First Class SLA |
-| Discount Strategy | 83% orders discounted | Cap at 10% |
-| Fraud Detection | No behavioral monitoring | Implement pattern detection |
-| Market Concentration | 57.6% in 2 markets | Diversify to Pacific Asia + USCA |
+### Areas Requiring Improvement
+
+| Area                        | Reason                                        | Evidence                                   |
+| --------------------------- | --------------------------------------------- | ------------------------------------------ |
+| First Class Shipping        | Highest late-delivery rate                    | 95.32% late deliveries                     |
+| High Discount Levels (>15%) | Associated with lower average profitability   | Profitability analysis                     |
+| Fraud & Risk Orders         | Revenue exposure from cancellations and fraud | $1.57M revenue at risk                     |
+| Market Concentration        | Revenue dependency on limited markets         | Europe + LATAM contribute 57.6% of revenue |
+
+### Business Risks Requiring Monitoring
+
+| Risk Area                 | Current Status                      | Recommended Action                             |
+| ------------------------- | ----------------------------------- | ---------------------------------------------- |
+| Late Delivery Performance | 54.82% late-delivery rate           | Review and optimize shipping SLAs              |
+| Discount Strategy         | High discount usage across orders   | Introduce discount approval controls           |
+| Fraud Detection           | Fraud-related orders identified     | Strengthen monitoring and validation processes |
+| Market Dependency         | Revenue concentrated in two markets | Expand presence in Pacific Asia and USCA       |
+| Profitability             | Margin pressure from discounts      | Monitor profit margin and pricing strategy     |
+
 
 
    ## Author
