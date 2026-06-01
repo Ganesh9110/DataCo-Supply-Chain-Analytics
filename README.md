@@ -141,5 +141,6 @@ Configured KPI alerts for:
 
 Kolluri Venkata Ganesh
 Data Analyst | Power BI | SQL | Microsoft Fabric
+
 🔗 LinkedIn: https://www.linkedin.com/in/kolluri-venkata-ganesh/
   
